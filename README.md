@@ -1,4 +1,4 @@
 # Git-hub-practice
 For practice purpose
-I am the developer1 
-I am from bengaluru
+I am the developer2 
+I am from chennai
