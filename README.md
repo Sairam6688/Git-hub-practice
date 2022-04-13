@@ -1,8 +1,6 @@
 # Git-hub-practice
 For practice purpose
 
-Removed old data added new data
+Java prject related code
+I am the developer2 
 
-Java prject related code added
-
-removed .net project code
