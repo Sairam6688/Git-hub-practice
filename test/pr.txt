@@ -1,1 +1,6 @@
 file added for pr
+
+
+git commands updated 
+
+local repo files need to be modified
